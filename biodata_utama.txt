@@ -1,7 +1,6 @@
 Nama Lengkap          : Muhamad Ramdani
 Kelas                 : XII RPL
 Tempat Tanggal Lahir  : Garut, 19 Februari 2005
-Hobi                  : Cooking
-Cita Cita             : Full Stack Developer
+Hobi                  : Cooking, Reading
 Jenis Kelamain        : Laki - Laki
 Alamat                : Jl. Karapitan
