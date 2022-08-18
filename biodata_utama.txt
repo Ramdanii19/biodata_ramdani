@@ -8,5 +8,6 @@ Pendidikan            : 1.TK-ALIKHLAS
                         2.SDN Lenkong Besar
                         3.SMPN 43 Bandung
                         4.SMK Prakarya Internasional
+
 Pekerjaan             : 1.CV Mandiri
                         2.PT UP
