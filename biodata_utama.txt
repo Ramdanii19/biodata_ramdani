@@ -11,3 +11,4 @@ Pendidikan            : 1.TK-ALIKHLAS
 
 Pekerjaan             : 1.CV Mandiri
                         2.PT UP
+                        3.CEO Google
